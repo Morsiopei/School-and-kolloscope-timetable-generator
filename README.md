@@ -1,0 +1,1 @@
+# School-and-kolloscope-timetable-generator
